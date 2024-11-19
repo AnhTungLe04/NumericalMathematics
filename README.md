@@ -1,2 +1,2 @@
 # NumericalMathematics
- This repository includes some numerical Mathematics related assignments that I have worked on!
+ This repository includes some numerical mathematics related assignments that I have worked on!
